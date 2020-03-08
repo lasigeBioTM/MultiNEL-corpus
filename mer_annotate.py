@@ -46,8 +46,6 @@ def annotate_documents(language, name_to_id):
                     if entity != ['']:
                         entity_count += 1
                         document_ent_count += 1
-
-                        #output_string += "T" + str(document_ent_count) + "\t" + entity[0] + " " + entity[1] + "\t" + entity[2] + "\n"
                         
                         if len(entity) == 4: # linked mentions with ICD code
                             linked_mentions += 1
