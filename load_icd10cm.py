@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 import sys
 import xml.etree.ElementTree as ET
 
