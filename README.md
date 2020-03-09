@@ -10,6 +10,7 @@ A silver standard parallel corpus containing 1917 English, Spanish and Portugues
 - python >= 3.5
 - [bs4](https://pypi.org/project/beautifulsoup4/)
 - [merpy](https://pypi.org/project/merpy/)
+- [pandas](https://pypi.org/project/pandas/)
 
 
 ## **Usage**
