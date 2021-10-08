@@ -1,10 +1,11 @@
 T1	22 32	pemphigoid	L12
-T2	1202 1212	pemphigoid	L12
-T3	1602 1612	pemphigoid	L12
-T4	1653 1663	pemphigoid	L12
-T5	14 32	Bullous pemphigoid	L12.0
-T6	1194 1212	bullous pemphigoid	L12.0
-T7	1594 1612	bullous pemphigoid	L12.0
-T8	1645 1663	bullous pemphigoid	L12.0
-T9	315 339	type 2 diabetes mellitus	E11
-T10	368 396	benign prostatic hyperplasia	N40
+T2	14 32	Bullous pemphigoid	L12.0
+T3	322 339	diabetes mellitus
+T4	315 339	type 2 diabetes mellitus	E11
+T5	368 396	benign prostatic hyperplasia	N40
+T6	1202 1212	pemphigoid	L12
+T7	1194 1212	bullous pemphigoid	L12.0
+T8	1602 1612	pemphigoid	L12
+T9	1594 1612	bullous pemphigoid	L12.0
+T10	1653 1663	pemphigoid	L12
+T11	1645 1663	bullous pemphigoid	L12.0

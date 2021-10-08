@@ -1,4 +1,5 @@
-T1	377 396	lupus erythematosus	L93
-T2	407 432	Antiphospholipid syndrome	D68.61
-T3	135 162	acute myocardial infarction	I21
-T4	368 402	systemic lupus erythematosus (SLE)
+T1	210 231	visual hallucinations	R44.1
+T2	135 162	acute myocardial infarction	I21
+T3	377 396	lupus erythematosus	L93
+T4	407 432	Antiphospholipid syndrome	D68.61
+T5	368 402	systemic lupus erythematosus (SLE)

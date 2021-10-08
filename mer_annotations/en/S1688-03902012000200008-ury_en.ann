@@ -1,5 +1,5 @@
 T1	8 20	Tuberculosis
-T2	568 578	bacteremia	R78.81
-T3	620 632	tuberculosis
-T4	728 737	hypoxemia	R09.02
-T5	104 117	Severe sepsis	R65.2
+T2	104 117	Severe sepsis	R65.2
+T3	568 578	bacteremia	R78.81
+T4	620 632	tuberculosis
+T5	728 737	hypoxemia	R09.02

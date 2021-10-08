@@ -1,7 +1,8 @@
-T1	694 704	hipotensão	I95
-T2	739 746	acidose	E87.2
-T3	971 978	acidose	E87.2
-T4	1135 1142	acidose	E87.2
-T5	1215 1225	hipotensão	I95
-T6	1407 1414	acidose	E87.2
-T7	1609 1616	acidose	E87.2
+T1	670 677	vómitos	R11.1
+T2	694 704	hipotensão	I95
+T3	739 746	acidose	E87.2
+T4	971 978	acidose	E87.2
+T5	1135 1142	acidose	E87.2
+T6	1215 1225	hipotensão	I95
+T7	1407 1414	acidose	E87.2
+T8	1609 1616	acidose	E87.2

@@ -1,3 +1,8 @@
 T1	0 14	Rhabdomyolysis	M62.82
-T2	349 357	weakness	R53.1
-T3	1281 1295	rhabdomyolysis	M62.82
+T2	144 152	acidosis	E87.2
+T3	213 225	hyperkalemia	E87.5
+T4	340 347	myalgia	M79.1
+T5	349 357	weakness	R53.1
+T6	756 769	myoglobinuria	R82.1
+T7	1281 1295	rhabdomyolysis	M62.82
+T8	1381 1392	dehydration	E86.0

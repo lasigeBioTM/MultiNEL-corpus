@@ -1,7 +1,9 @@
-T1	648 659	hypotension	I95
-T2	694 702	acidosis	E87.2
-T3	922 930	acidosis	E87.2
-T4	1072 1080	acidosis	E87.2
-T5	1138 1149	Hypotension	I95
-T6	1328 1336	acidosis	E87.2
-T7	1525 1533	acidosis	E87.2
+T1	603 609	nausea	R11.0
+T2	611 619	vomiting	R11.1
+T3	648 659	hypotension	I95
+T4	694 702	acidosis	E87.2
+T5	922 930	acidosis	E87.2
+T6	1072 1080	acidosis	E87.2
+T7	1138 1149	Hypotension	I95
+T8	1328 1336	acidosis	E87.2
+T9	1525 1533	acidosis	E87.2

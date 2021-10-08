@@ -1,7 +1,9 @@
-T1	750 761	hipotensión	I95
-T2	798 806	acidosis	E87.2
-T3	1067 1075	acidosis	E87.2
-T4	1223 1231	acidosis	E87.2
-T5	1318 1329	hipotensión	I95
-T6	1511 1519	acidosis	E87.2
-T7	1690 1698	acidosis	E87.2
+T1	715 722	náuseas	R11.0
+T2	724 731	vómitos	R11.1
+T3	750 761	hipotensión	I95
+T4	798 806	acidosis	E87.2
+T5	1067 1075	acidosis	E87.2
+T6	1223 1231	acidosis	E87.2
+T7	1318 1329	hipotensión	I95
+T8	1511 1519	acidosis	E87.2
+T9	1690 1698	acidosis	E87.2

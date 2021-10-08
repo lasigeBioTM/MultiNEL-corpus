@@ -1,3 +1,7 @@
-T1	742 748	disnea	R06.0
-T2	26 42	mieloma múltiple	C90.0
-T3	1192 1208	mieloma múltiple	C90.0
+T1	26 42	mieloma múltiple	C90.0
+T2	683 690	cefalea	R51
+T3	743 749	disnea	R06.0
+T4	762 769	ascitis	R18
+T5	915 927	pancitopenia	D61.81
+T6	1033 1040	ascitis	R18
+T7	1193 1209	mieloma múltiple	C90.0

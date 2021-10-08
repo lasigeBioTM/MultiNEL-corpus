@@ -1,6 +1,6 @@
-T1	254 263	neoplasms
-T2	244 263	malignant neoplasms
-T3	27 56	Diffuse Large B-cell Lymphoma	C83.3
+T1	27 56	Diffuse Large B-cell Lymphoma	C83.3
+T2	254 263	neoplasms
+T3	244 263	malignant neoplasms
 T4	965 994	diffuse large B-cell Lymphoma	C83.3
 T5	1408 1437	diffuse large B-cell Lymphoma	C83.3
 T6	1830 1859	diffuse large B-cell lymphoma	C83.3

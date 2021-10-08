@@ -1,6 +1,6 @@
 T1	11 25	cardiomyopathy	I42
 T2	64 78	cardiomyopathy	I42
-T3	1011 1025	cardiomyopathy	I42
-T4	0 25	Peripartum cardiomyopathy	O90.3
-T5	150 163	heart failure	I50
-T6	325 338	heart failure	I50
+T3	0 25	Peripartum cardiomyopathy	O90.3
+T4	150 163	heart failure	I50
+T5	325 338	heart failure	I50
+T6	1011 1025	cardiomyopathy	I42

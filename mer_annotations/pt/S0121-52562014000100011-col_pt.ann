@@ -1,7 +1,8 @@
 T1	2 9	pênfigo	L10
 T2	116 123	pênfigo	L10
-T3	938 945	pênfigo	L10
-T4	2 21	pênfigo eritematoso	L10.4
-T5	116 132	pênfigo foliáceo	L10.2
-T6	938 954	pênfigo foliáceo	L10.2
-T7	702 728	lúpus eritematoso discóide	L93.0
+T3	2 21	pênfigo eritematoso	L10.4
+T4	116 132	pênfigo foliáceo	L10.2
+T5	731 751	dermatite seborreica	L21
+T6	702 728	lúpus eritematoso discóide	L93.0
+T7	938 945	pênfigo	L10
+T8	938 954	pênfigo foliáceo	L10.2

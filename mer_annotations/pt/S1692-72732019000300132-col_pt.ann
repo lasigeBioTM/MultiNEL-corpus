@@ -1,5 +1,7 @@
-T1	690 698	dispneia	R06.0
-T2	711 717	ascite	R18
-T3	966 972	ascite	R18
-T4	22 38	mieloma múltiplo	C90.0
-T5	1115 1131	mieloma múltiplo	C90.0
+T1	23 39	mieloma múltiplo	C90.0
+T2	650 658	cefaleia	R51
+T3	693 701	dispneia	R06.0
+T4	714 720	ascite	R18
+T5	850 862	pancitopenia	D61.81
+T6	969 975	ascite	R18
+T7	1118 1134	mieloma múltiplo	C90.0

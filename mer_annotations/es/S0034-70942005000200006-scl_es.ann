@@ -1,2 +1,4 @@
 T1	905 915	neoplasias
 T2	905 924	neoplasias malignas
+T3	1304 1315	hipotensión	I95
+T4	1340 1350	hipotermia	T68.XXX

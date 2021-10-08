@@ -1,3 +1,5 @@
 T1	17 30	leptospirosis	A27
-T2	1109 1119	brucelosis	A23
-T3	1326 1339	leptospirosis	A27
+T2	607 614	cefalea	R51
+T3	1109 1119	brucelosis	A23
+T4	1092 1107	fiebre amarilla	A95
+T5	1326 1339	leptospirosis	A27

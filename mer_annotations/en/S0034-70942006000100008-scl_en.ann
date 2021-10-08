@@ -1,1 +1,3 @@
-T1	578 605	acute myocardial infarction	I21
+T1	517 531	cardiomyopathy	I42
+T2	509 531	dilated cardiomyopathy	I42.0
+T3	578 605	acute myocardial infarction	I21

@@ -1,2 +1,5 @@
 T1	14 27	Leptospirosis	A27
-T2	1280 1293	leptospirosis	A27
+T2	565 573	headache	R51
+T3	1013 1024	brucellosis	A23
+T4	999 1011	yellow fever	A95
+T5	1280 1293	leptospirosis	A27

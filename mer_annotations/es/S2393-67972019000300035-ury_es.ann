@@ -1,5 +1,7 @@
 T1	29 41	tuberculosis
-T2	547 559	tuberculosis
-T3	962 974	tuberculosis
-T4	1034 1046	tuberculosis
-T5	314 344	meningoencefalitis tuberculosa	A17.82
+T2	369 376	cefalea	R51
+T3	378 385	vómitos	R11.1
+T4	314 344	meningoencefalitis tuberculosa	A17.82
+T5	547 559	tuberculosis
+T6	962 974	tuberculosis
+T7	1034 1046	tuberculosis

@@ -1,5 +1,6 @@
 T1	374 385	atelectasis	J98.11
 T2	446 457	atelectasis	J98.11
-T3	1008 1019	atelectasis	J98.11
-T4	1244 1255	atelectasis	J98.11
-T5	700 717	anorectal fistula	K60.5
+T3	700 717	anorectal fistula	K60.5
+T4	895 905	hemothorax	J94.2
+T5	1008 1019	atelectasis	J98.11
+T6	1244 1255	atelectasis	J98.11

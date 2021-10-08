@@ -1,2 +1,3 @@
 T1	782 801	hypertensive crisis	I16
-T2	807 828	acute pulmonary edema	J81.0
+T2	813 828	pulmonary edema	J81
+T3	807 828	acute pulmonary edema	J81.0

@@ -1,4 +1,6 @@
-T1	653 661	dispneia	R06.0
-T2	149 167	distúrbios visuais	H53
-T3	1055 1074	insuficiência renal	N17-N19
-T4	1330 1353	emergência hipertensiva	I16.1
+T1	150 168	distúrbios visuais	H53
+T2	354 368	edema cerebral	G93.6
+T3	658 666	dispneia	R06.0
+T4	669 687	edema generalizado	R60.1
+T5	1060 1079	insuficiência renal	N17-N19
+T6	1339 1362	emergência hipertensiva	I16.1

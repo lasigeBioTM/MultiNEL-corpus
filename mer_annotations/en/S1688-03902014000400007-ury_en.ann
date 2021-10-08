@@ -1,2 +1,3 @@
-T1	769 776	stridor	R06.1
-T2	241 267	acute respiratory distress	R06.03
+T1	241 267	acute respiratory distress	R06.03
+T2	769 776	stridor	R06.1
+T3	781 790	dysphonia	R49.0

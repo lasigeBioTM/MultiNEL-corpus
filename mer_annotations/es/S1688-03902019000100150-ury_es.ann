@@ -1,9 +1,12 @@
-T1	472 479	Ascitis	R18
-T2	655 662	ascitis	R18
-T3	801 808	ascitis	R18
-T4	1120 1127	ascitis	R18
-T5	28 51	síndrome de Budd-Chiari	I82.0
-T6	334 357	síndrome de Budd-Chiari	I82.0
-T7	1171 1194	síndrome de Budd-Chiari	I82.0
-T8	1390 1413	síndrome de Budd-Chiari	I82.0
-T9	1623 1646	síndrome de Budd-Chiari	I82.0
+T1	28 51	síndrome de Budd-Chiari	I82.0
+T2	371 395	síndrome antifosfolípido	D68.61
+T3	334 357	síndrome de Budd-Chiari	I82.0
+T4	473 480	Ascitis	R18
+T5	656 663	ascitis	R18
+T6	802 809	ascitis	R18
+T7	1121 1128	ascitis	R18
+T8	1142 1161	hipertensión portal	K76.6
+T9	1172 1195	síndrome de Budd-Chiari	I82.0
+T10	1272 1296	síndrome antifosfolípido	D68.61
+T11	1392 1415	síndrome de Budd-Chiari	I82.0
+T12	1625 1648	síndrome de Budd-Chiari	I82.0

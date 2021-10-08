@@ -1,4 +1,5 @@
 T1	17 29	tuberculosis
-T2	746 758	tuberculosis
-T3	814 826	tuberculosis
-T4	855 867	tuberculosis
+T2	531 538	ascitis	R18
+T3	746 758	tuberculosis
+T4	814 826	tuberculosis
+T5	855 867	tuberculosis

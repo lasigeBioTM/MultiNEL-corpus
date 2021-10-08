@@ -1,6 +1,8 @@
 T1	25 37	tuberculosis
 T2	58 70	tuberculosis
-T3	475 487	tuberculosis
-T4	870 882	tuberculosis
-T5	938 950	tuberculosis
-T6	249 280	tuberculous meningoencephalitis	A17.82
+T3	292 300	headache	R51
+T4	302 310	vomiting	R11.1
+T5	249 280	tuberculous meningoencephalitis	A17.82
+T6	475 487	tuberculosis
+T7	870 882	tuberculosis
+T8	938 950	tuberculosis

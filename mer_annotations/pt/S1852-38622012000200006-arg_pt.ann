@@ -1,5 +1,5 @@
 T1	2 16	cardiomiopatia	I42
 T2	61 75	cardiomiopatia	I42
-T3	1032 1037	parto	O80-O82
-T4	146 168	insuficiência cardíaca	I50
-T5	329 351	insuficiência cardíaca	I50
+T3	146 168	insuficiência cardíaca	I50
+T4	329 351	insuficiência cardíaca	I50
+T5	1032 1037	parto	O80-O82

@@ -1,5 +1,5 @@
 T1	36 50	cardiomyopathy	I42
-T2	449 463	cardiomyopathy	I42
-T3	28 50	dilated cardiomyopathy	I42.0
-T4	118 131	heart failure	I50
+T2	28 50	dilated cardiomyopathy	I42.0
+T3	118 131	heart failure	I50
+T4	449 463	cardiomyopathy	I42
 T5	441 463	dilated cardiomyopathy	I42.0

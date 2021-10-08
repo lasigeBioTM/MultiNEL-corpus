@@ -1,3 +1,6 @@
+mkdir ICD10_files
+cd ICD10_files
+
 #English (en): ICD 10 at CDC portal https://www.cdc.gov/nchs/icd/icd10cm.htm
 #2020 version
 wget ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2020/icd10cm_tabular_2020.xml
@@ -14,4 +17,6 @@ wget https://www.mscbs.gob.es/estadEstudios/estadisticas/normalizacion/CIE10/CIE
 
 
 mv ICD10CMPCS_2017_PT_Longa\ e\ Curta_20180821corrigidav5.2.xlsx?version=1 ICD10CMPCS_2017_PT_Longa\ e\ Curta_20180821corrigidav5.2.xlsx
+
+cd ..
 exit

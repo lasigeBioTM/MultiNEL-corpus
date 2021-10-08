@@ -1,3 +1,5 @@
-T1	630 637	dyspnea	R06.0
-T2	137 156	visual disturbances	H53
-T3	331 345	cerebral edema	G93.6
+T1	137 156	visual disturbances	H53
+T2	331 345	cerebral edema	G93.6
+T3	631 638	dyspnea	R06.0
+T4	643 660	generalized edema	R60.1
+T5	1337 1359	hypertensive emergency	I16.1

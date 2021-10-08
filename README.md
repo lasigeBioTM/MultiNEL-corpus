@@ -5,13 +5,14 @@ A silver standard parallel corpus containing 1917 English, Spanish and Portugues
 ([International Classification of Diseases, 10th Revision, Clinical Modification](https://en.wikipedia.org/wiki/ICD-10_Clinical_Modification)) terminology. To create a new corpus follow the instructions below.
 
 
-## Dependencies
-*requirements.txt* file:
-- python >= 3.5
-- [bs4](https://pypi.org/project/beautifulsoup4/)
-- [merpy](https://pypi.org/project/merpy/)
-- [pandas](https://pypi.org/project/pandas/)
+## Setup
+It is necessary an environment with Python>=3.5 installed.
 
+Then, run the script:
+
+```
+./setup.sh
+```
 
 ## **Usage**
 

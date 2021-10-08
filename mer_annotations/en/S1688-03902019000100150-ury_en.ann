@@ -1,8 +1,10 @@
-T1	457 464	ascites	R18
-T2	632 639	ascites	R18
-T3	777 784	ascites	R18
-T4	1060 1067	Ascites	R18
-T5	287 307	Budd-Chiari syndrome	I82.0
-T6	1081 1100	portal hypertension	K76.6
-T7	1333 1353	Budd-Chiari syndrome	I82.0
-T8	1597 1617	Budd-Chiari syndrome	I82.0
+T1	288 308	Budd-Chiari syndrome	I82.0
+T2	325 350	antiphospholipid syndrome	D68.61
+T3	459 466	ascites	R18
+T4	634 641	ascites	R18
+T5	779 786	ascites	R18
+T6	1062 1069	Ascites	R18
+T7	1083 1102	portal hypertension	K76.6
+T8	1209 1234	antiphospholipid syndrome	D68.61
+T9	1336 1356	Budd-Chiari syndrome	I82.0
+T10	1600 1620	Budd-Chiari syndrome	I82.0

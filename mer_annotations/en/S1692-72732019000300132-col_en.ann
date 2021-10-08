@@ -1,4 +1,6 @@
-T1	733 740	dyspnea	R06.0
-T2	754 761	ascites	R18
-T3	990 997	ascites	R18
-T4	28 44	multiple myeloma	C90.0
+T1	29 45	multiple myeloma	C90.0
+T2	692 700	headache	R51
+T3	735 742	dyspnea	R06.0
+T4	756 763	ascites	R18
+T5	881 893	pancytopenia	D61.81
+T6	992 999	ascites	R18

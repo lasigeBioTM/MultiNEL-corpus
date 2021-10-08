@@ -1,4 +1,5 @@
 T1	703 712	hipoxemia	R09.02
-T2	1000 1009	hipoxemia	R09.02
-T3	669 683	edema pulmonar	J81
+T2	669 683	edema pulmonar	J81
+T3	1000 1009	hipoxemia	R09.02
 T4	1224 1238	edema pulmonar	J81
+T5	1252 1274	insuficiência cardíaca	I50

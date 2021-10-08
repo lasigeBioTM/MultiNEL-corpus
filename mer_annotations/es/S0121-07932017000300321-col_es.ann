@@ -1,6 +1,7 @@
-T1	27 44	apendicitis aguda	K35
-T2	175 192	apendicitis aguda	K35
-T3	233 246	abdomen agudo	R10.0
-T4	556 573	apendicitis aguda	K35
-T5	729 746	apendicitis aguda	K35
-T6	799 812	abdomen agudo	R10.0
+T1	138 150	tuberculosis
+T2	27 44	apendicitis aguda	K35
+T3	175 192	apendicitis aguda	K35
+T4	233 246	abdomen agudo	R10.0
+T5	557 574	apendicitis aguda	K35
+T6	731 748	apendicitis aguda	K35
+T7	801 814	abdomen agudo	R10.0
