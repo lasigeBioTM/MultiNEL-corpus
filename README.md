@@ -4,6 +4,13 @@
 A silver standard parallel corpus containing 1917 English, Spanish and Portuguese clinical case reports (639 for each language) annotated with medical diagnostic codes from the ICD10-CM 
 ([International Classification of Diseases, 10th Revision, Clinical Modification](https://en.wikipedia.org/wiki/ICD-10_Clinical_Modification)) terminology. To create a new corpus follow the instructions below.
 
+Citation:
+
+
+* P. Ruas, A. Lamurias, and F. Couto, “[Towards a multilingual corpus for named entity linking evaluation in the clinical domain](http://ceur-ws.org/Vol-2619/short3.pdf),” in The First International Workshop on Semantic Indexing and Information Retrieval for Health from heterogeneous content types and languages (SIIRH), 2020. 
+
+
+
 
 ## Setup
 It is necessary an environment with Python>=3.5 installed.
